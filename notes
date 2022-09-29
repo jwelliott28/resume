@@ -1,0 +1,6 @@
+9/28/2022
+
+- created first VM on Linode for resume web server
+  - Rocky, updated, SSH keys created, apache installed, working and enabled
+- created resume github repo and cloned to Linode VM
+- created admin user and cloned repo to their home folder
