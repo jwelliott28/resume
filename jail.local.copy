@@ -1,0 +1,10 @@
+[DEFAULT]
+
+# Ban IPs permanently:
+bantime = -1
+
+# Override backend=auto in /etc/fail2ban/jail.conf
+backend = systemd
+
+[sshd]
+enabled = true

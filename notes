@@ -4,3 +4,9 @@
   - Rocky, updated, SSH keys created, apache installed, working and enabled
 - created resume github repo and cloned to Linode VM
 - created admin user and cloned repo to their home folder
+
+9/29/2022
+
+- installed fail2ban and configured after seeing 1000+ failed attempts to access server via ssh
+  - adding fail2ban config file jail.local to repo for future reference
+- ansible set-up for future: httpd/apache/nginx, fail2ban
