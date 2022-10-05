@@ -10,3 +10,9 @@
 - installed fail2ban and configured after seeing 1000+ failed attempts to access server via ssh
   - adding fail2ban config file jail.local to repo for future reference
 - ansible set-up for future: httpd/apache/nginx, fail2ban
+
+10/5/2022
+
+- cloned repo to desktop
+- changed header styles for a few elements
+- added reference links to make credential verification easier
